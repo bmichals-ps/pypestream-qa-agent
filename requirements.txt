@@ -1,0 +1,10 @@
+opencv-python
+mss
+numpy
+openai
+anthropic
+google-generativeai
+playwright
+pillow
+pyautogui
+pytesseract
